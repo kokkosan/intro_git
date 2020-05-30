@@ -3,4 +3,4 @@ gitのバージョン管理の練習します。
 addtest
  git add 
  git commit
- 
+ git status

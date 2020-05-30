@@ -1,3 +1,5 @@
 gitのバージョン管理の練習します。
 ささささ
 addtest
+ git add 
+ git commit
